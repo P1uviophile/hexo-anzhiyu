@@ -1,0 +1,49 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: Java
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/04/09/643293b1184e9.jpg
+
+    - name: Redis
+      color: "#df5b40"
+      icon: https://pic.joking7.com/202409181424509.svg
+
+    - name: Linux
+      color: "#4499e4"
+      icon: https://pic.joking7.com/202409181411848.svg
+
+    - name: MySQL
+      color: "#fff"
+      icon: https://pic.joking7.com/202409181413402.svg
+
+    - name: ElasticSearch
+      color: "#2e3a41"
+      icon: https://pic.joking7.com/202409181415487.svg
+
+    - name: Spring Boot
+      color: "#fff"
+      icon: https://pic.joking7.com/202409181416591.svg
+
+    - name: Python
+      color: "#fff"
+      icon: https://bu.dusays.com/2023/04/09/643293b1230f7.png
+
+    - name: Kafka
+      color: "#dbdbdb"
+      icon: https://pic.joking7.com/202409181419980.svg
+
+    - name: MyBatis
+      color: "#4499e4"
+      icon: https://pic.joking7.com/202409181425071.svg
+
+    - name: HTML
+      color: "#e9572b"
+      icon: https://bu.dusays.com/2022/12/15/639aa3a5c241c.png
+
+    - name: Git
+      color: "#df5b40"
+      icon: https://bu.dusays.com/2023/04/09/643293b10ccdd.webp
+      
+    - name: Spring
+      color: "#fff"
+      icon: https://pic.joking7.com/2024-09-18-14-07-21.webp

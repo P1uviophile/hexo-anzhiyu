@@ -1,0 +1,105 @@
+- class_name: 关于页
+  subtitle: 淡泊明志，宁静致远✨
+  avatarImg: https://pic.joking7.com/202407130308761.webp
+  # avatarSkills:
+    # left:
+      # - 🤖️ 数码科技爱好者
+      # - 🔍 分享与热心帮助
+      # - 🏠 智能家居小能手
+      # - 🔨 设计开发一条龙
+    # right:
+      # - 专修交互与设计 🤝
+      # - 脚踏实地行动派 🏃
+      # - 团队小组发动机 🧱
+      # - 壮汉人狠话不多 💢
+  name: Joking
+  description: 是一名 后端工程师、学生、博主
+  aboutsiteTips:
+    tips: 追求
+    title1: 源于
+    title2: 热爱而去 感受
+    word:
+      - 学习
+      - 生活
+      - 程序
+      - 体验
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+    
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: DHU,智能科学与技术专业
+        color: "#357ef5"
+    img: https://pic.joking7.com/202406272351934.webp
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 我现在住在
+    StrengthenTitle: 中国，上海市
+    background: https://pic.joking7.com/202407130308979.webp
+    backgroundDark: https://pic.joking7.com/202407130309715.webp
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2003
+    selfInfoTips2: 东华大学
+    selfInfoContent2: 智能科学与技术
+    selfInfoTips3: 现在职业
+    selfInfoContent3: 测试工程师
+  personalities:
+    author_name: 逻辑学家
+    personality_type: INTP
+    photo_url: https://pic.joking7.com/202407130306819.webp
+    personality_img: https://pic.joking7.com/202407130305318.webp
+    name_url: https://www.16personalities.com/ch/intp-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 淡泊明志，
+    maxim_bottom: 宁静致远。
+  buff:
+    buff_tips: 特长
+    buff_top: 爱睡觉的 咸鱼
+    buff_bottom: 雨天困意 MAX
+  game:
+    game_tips: 爱好游戏
+    game_title: 宝可梦 塞尔达 P5R 老头环
+    game_uid: ""
+    game_bg: https://pic.joking7.com/202407130305358.webp
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: Girls Band Cry
+        href: https://www.bilibili.com/video/BV1bSVEebESf/?spm_id_from=333.337.search-card.all.click&vd_source=2d8ed21d8adf77f57424a0a78fd3571e
+        cover: https://pic.joking7.com/202407130303311.webp
+      - name: 咒术回战
+        href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
+      - name: 紫罗兰永恒花园
+        href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db43983d99.webp
+      - name: 鬼灭之刃
+        href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
+      - name: JOJO的奇妙冒险 黄金之风
+        href: https://www.bilibili.com/bangumi/media/md135652/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
+        cover: https://bu.dusays.com/2023/05/30/64760e38d651a.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 主机 手机及PC软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: Rock&Roll R&B JPop
+    music_bg: https://pic.joking7.com/202407130309473.webp
+    music_link: /music/?id=777777561&server=netease
+  # reward_list:
+    # - name: 海阔蓝
+      # amount: 8.8
+      # datatime: 2023-03-28
